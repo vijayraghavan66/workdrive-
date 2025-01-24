@@ -8,7 +8,7 @@ Welcome to the collaborative project repository! Each contributor will create a 
    Make sure your version of the project is finished and ready for submission before adding it to the repository.
 
 2. **Create a Folder for Your Version:**  
-   - In the root directory of the repository, create a folder named after your username (e.g., `YourUsername` or `YourName_Project`).
+   - In the directory created after your name of the repository, create a folder named after your version number (e.g., `v1.0` or `1.1`).
    - This folder will hold all files related to your version of the project.
 
 3. **Add Your Files:**  
